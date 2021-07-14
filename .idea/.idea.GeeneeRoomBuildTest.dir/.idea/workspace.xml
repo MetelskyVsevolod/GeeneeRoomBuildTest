@@ -38,14 +38,13 @@
       <option name="presentableId" value="Default" />
       <updated>1626267139055</updated>
       <workItem from="1626267142175" duration="229000" />
-      <workItem from="1626273504328" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -57,16 +56,14 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="228" key="Vcs.Push.Dialog.v2" timestamp="1626273557360">
+    <state x="440" y="228" key="Vcs.Push.Dialog.v2" timestamp="1626267142810">
       <screen x="0" y="25" width="1680" height="932" />
     </state>
     <state x="440" y="228" key="Vcs.Push.Dialog.v2/0.25.1680.932@0.25.1680.932" timestamp="1626267142810" />
-    <state x="440" y="228" key="Vcs.Push.Dialog.v2/1680.-175.2560.1415/0.25.1680.932@0.25.1680.932" timestamp="1626273557360" />
   </component>
 </project>
