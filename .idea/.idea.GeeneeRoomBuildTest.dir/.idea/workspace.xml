@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b711d424-b8cb-4caa-af6a-d5a5a3a0860f" name="Default Changelist" comment="" />
+    <list default="true" id="b711d424-b8cb-4caa-af6a-d5a5a3a0860f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GeeneeRoomBuildTest.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GeeneeRoomBuildTest.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1vJ51mmPy29YxbMa5j0qRbr9cNR" />
   <component name="ProjectViewState">
@@ -38,13 +41,14 @@
       <option name="presentableId" value="Default" />
       <updated>1626267139055</updated>
       <workItem from="1626267142175" duration="229000" />
+      <workItem from="1626276056124" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -56,14 +60,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="228" key="Vcs.Push.Dialog.v2" timestamp="1626267142810">
+    <state x="440" y="228" key="Vcs.Push.Dialog.v2" timestamp="1626276060533">
       <screen x="0" y="25" width="1680" height="932" />
     </state>
     <state x="440" y="228" key="Vcs.Push.Dialog.v2/0.25.1680.932@0.25.1680.932" timestamp="1626267142810" />
+    <state x="440" y="228" key="Vcs.Push.Dialog.v2/1680.-175.2560.1415/0.25.1680.932@0.25.1680.932" timestamp="1626276060533" />
   </component>
 </project>
