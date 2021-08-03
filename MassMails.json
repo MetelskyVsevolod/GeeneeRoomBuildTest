@@ -1,0 +1,14 @@
+{
+    "Addresses": ["fantaji.games@gmail.com"],
+    "FilesPath": [],
+    "Host": "smtp.gmail.com",
+    "Port": 587,
+    "EnableSsl": true,
+    "UseDefaultCredentials": false,
+    "Email": "metelskyvsevolod@gmail.com",
+    "Password": "gaxoosudqwxcwjhh",
+    "Subject": "Mo: The Math Game!",
+    "Body": "la la la!\n la la!",
+    "From": "metelskyvsevolod@gmail.com",
+    "AmountToSend": 2
+}
